@@ -1,0 +1,35 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindMatlab.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/Platform/WindowsPaths.cmake
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/CMakeLists.txt
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/CMakeFiles/3.17.2/CMakeCCompiler.cmake
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/CMakeFiles/3.17.2/CMakeCXXCompiler.cmake
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/CMakeFiles/3.17.2/CMakeRCCompiler.cmake
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/CMakeFiles/3.17.2/CMakeSystem.cmake
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/inc/config.hpp.cmake
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/inc/cufft_config.hpp.cmake

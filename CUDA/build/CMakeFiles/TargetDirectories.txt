@@ -1,0 +1,9 @@
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/CMakeFiles/ALL_BUILD.dir
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/CMakeFiles/ZERO_CHECK.dir
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/atomic/CMakeFiles/gpuNUFFT_ATM_f.dir
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/matlab/CMakeFiles/mex_gpuNUFFT_adj_f.dir
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/matlab/CMakeFiles/mex_gpuNUFFT_forw_atomic_f.dir
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/matlab/CMakeFiles/mex_gpuNUFFT_forw_f.dir
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/matlab/CMakeFiles/mex_gpuNUFFT_adj_atomic_f.dir
+D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/matlab/precomputation/CMakeFiles/mex_gpuNUFFT_precomp_f.dir

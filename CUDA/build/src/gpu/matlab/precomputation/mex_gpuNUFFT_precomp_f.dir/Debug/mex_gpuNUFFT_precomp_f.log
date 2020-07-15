@@ -1,0 +1,17 @@
+﻿  Building Custom Rule D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/src/gpu/matlab/precomputation/CMakeLists.txt
+  gpuNUFFT_precomp.cpp
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(143,3): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 2 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\matlab\precomputation\gpuNUFFT_precomp.cpp(134,3): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+  gpuNUFFT_operator_matlabfactory.cpp
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(143,3): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 2 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+  Generování kódu...
+     Vytváří se knihovna D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/bin/mex_gpuNUFFT_precomp_f.lib a objekt D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/bin/mex_gpuNUFFT_precomp_f.exp.
+  mex_gpuNUFFT_precomp_f.vcxproj -> D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\bin\mex_gpuNUFFT_precomp_f.mexw64

@@ -1,0 +1,195 @@
+﻿  Building NVCC (Device) object src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir/Debug/gpuNUFFT_f_generated_coarse_gpuNUFFT.cu.obj
+  coarse_gpuNUFFT.cu
+CUSTOMBUILD : nvcc warning : The 'compute_35', 'compute_37', 'compute_50', 'sm_35', 'sm_37' and 'sm_50' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+CUSTOMBUILD : nvcc warning : The 'compute_35', 'compute_37', 'compute_50', 'sm_35', 'sm_37' and 'sm_50' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+  coarse_gpuNUFFT.cu
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(143): warning C4996: 'cudaThreadSynchronize': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184): warning C4477: fprintf: Form├ítovac├¡ retezec %lu vyzaduje argument typu unsigned long, ale variadicky argument 1 m├í typ size_t.
+  D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184): note: Zvazte pouzit├¡ %zu ve form├ítovac├¡m retezci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184): warning C4477: fprintf: Form├ítovac├¡ retezec %lu vyzaduje argument typu unsigned long, ale variadicky argument 2 m├í typ size_t.
+  D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184): note: Zvazte pouzit├¡ %zu ve form├ítovac├¡m retezci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(28): warning C4996: 'cudaBindTexture': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(32): warning C4996: 'cudaBindTexture': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(42): warning C4996: 'cudaBindTextureToArray': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(43): warning C4996: 'cudaMemcpyToArray': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(53): warning C4996: 'cudaBindTextureToArray': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(54): warning C4996: 'cudaMemcpyToArray': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(73): warning C4996: 'cudaBindTextureToArray': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(87): warning C4996: 'cudaUnbindTexture': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(91): warning C4996: 'cudaUnbindTexture': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(95): warning C4996: 'cudaUnbindTexture': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(99): warning C4996: 'cudaUnbindTexture': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(103): warning C4996: 'cudaUnbindTexture': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(472): warning C4244: argument: double se prev├íd├¡ na DType; muze doj├¡t ke ztr├íte dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(529): warning C4244: argument: double se prev├íd├¡ na DType; muze doj├¡t ke ztr├íte dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(746): warning C4244: argument: double se prev├íd├¡ na DType; muze doj├¡t ke ztr├íte dat.
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(989): warning C4996: 'cudaBindTexture': bylo deklarovan├⌐ jako zastaral├⌐
+  D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(28): note: Zobrazit odkaz na kompilovan├⌐ vytv├íren├¡ instanc├¡ funkce sablona cudaError_t cudaBindTexture<float2,1,cudaReadModeElementType>(size_t *,const texture<float2,1,cudaReadModeElementType> &,const void *,size_t)
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1188): warning C4996: 'cudaBindTextureToArray': bylo deklarovan├⌐ jako zastaral├⌐
+  D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(42): note: Zobrazit odkaz na kompilovan├⌐ vytv├íren├¡ instanc├¡ funkce sablona cudaError_t cudaBindTextureToArray<float,1,cudaReadModeElementType>(const texture<float,1,cudaReadModeElementType> &,cudaArray_const_t)
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1308): warning C4996: 'cudaUnbindTexture': bylo deklarovan├⌐ jako zastaral├⌐
+  D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(87): note: Zobrazit odkaz na kompilovan├⌐ vytv├íren├¡ instanc├¡ funkce sablona cudaError_t cudaUnbindTexture<float,1,cudaReadModeElementType>(const texture<float,1,cudaReadModeElementType> &)
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(944): warning C4996: 'cudaBindTexture': bylo deklarovan├⌐ jako zastaral├⌐
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(989): note: Zobrazit odkaz na kompilovan├⌐ vytv├íren├¡ instanc├¡ funkce sablona cudaError_t cudaBindTexture<float2,1,cudaReadModeElementType>(size_t *,const texture<float2,1,cudaReadModeElementType> &,const void *,const cudaChannelFormatDesc &,size_t)
+  D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(28): note: Zobrazit odkaz na kompilovan├⌐ vytv├íren├¡ instanc├¡ funkce sablona cudaError_t cudaBindTexture<float2,1,cudaReadModeElementType>(size_t *,const texture<float2,1,cudaReadModeElementType> &,const void *,size_t)
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1147): warning C4996: 'cudaBindTextureToArray': bylo deklarovan├⌐ jako zastaral├⌐
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h(1188): note: Zobrazit odkaz na kompilovan├⌐ vytv├íren├¡ instanc├¡ funkce sablona cudaError_t cudaBindTextureToArray<float,1,cudaReadModeElementType>(const texture<float,1,cudaReadModeElementType> &,cudaArray_const_t,const cudaChannelFormatDesc &)
+  D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpu\coarse\../std_gpuNUFFT_kernels.cu(42): note: Zobrazit odkaz na kompilovan├⌐ vytv├íren├¡ instanc├¡ funkce sablona cudaError_t cudaBindTextureToArray<float,1,cudaReadModeElementType>(const texture<float,1,cudaReadModeElementType> &,cudaArray_const_t)
+  Building NVCC (Device) object src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir/__/Debug/gpuNUFFT_f_generated_precomp_kernels.cu.obj
+  precomp_kernels.cu
+CUSTOMBUILD : nvcc warning : The 'compute_35', 'compute_37', 'compute_50', 'sm_35', 'sm_37' and 'sm_50' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(97): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\precomp_utils.hpp(108): warning : calling a __host__ function from a __host__ __device__ function is not allowed
+  
+CUSTOMBUILD : nvcc warning : The 'compute_35', 'compute_37', 'compute_50', 'sm_35', 'sm_37' and 'sm_50' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+  precomp_kernels.cu
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(143): warning C4996: 'cudaThreadSynchronize': bylo deklarovan├⌐ jako zastaral├⌐
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184): warning C4477: fprintf: Form├ítovac├¡ retezec %lu vyzaduje argument typu unsigned long, ale variadicky argument 1 m├í typ size_t.
+  D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184): note: Zvazte pouzit├¡ %zu ve form├ítovac├¡m retezci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184): warning C4477: fprintf: Form├ítovac├¡ retezec %lu vyzaduje argument typu unsigned long, ale variadicky argument 2 m├í typ size_t.
+  D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184): note: Zvazte pouzit├¡ %zu ve form├ítovac├¡m retezci.
+  Building Custom Rule D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/src/gpu/coarse/CMakeLists.txt
+  CMake is re-running because D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/generate.stamp is out-of-date.
+    the file 'D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir/__/gpuNUFFT_f_generated_precomp_kernels.cu.obj.depend'
+    is newer than 'D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.18362.0 to target Windows 10.0.18363.
+  -- MATLAB Installation found via script variable Matlab_ROOT_DIR in C:/Program Files/MATLAB/R2020a
+  -- MATLAB Installation found in C:\Program Files\MATLAB\R2020a
+  -- Setting DEBUG Option to false
+  -- Setting MATLAB DEBUG Option to false
+  -- setting NVCC FLAGS to: -arch=sm_30;-gencode=arch=compute_30,code=sm_30;-gencode=arch=compute_50,code=sm_50;-gencode=arch=compute_52,code=sm_52;-gencode=arch=compute_60,code=sm_60;-gencode=arch=compute_61,code=sm_61;-gencode=arch=compute_62,code=sm_62;-gencode=arch=compute_70,code=sm_70;-gencode=arch=compute_70,code=compute_70
+  -- creating lib with name: gpuNUFFT_f
+  ------start creating libraries-------
+  Coarse GPU GpuNUFFT Library
+  Atomic GPU GpuNUFFT Library
+  -- MEX file
+  -- checking MATLAB INC DIR = C:\Program Files\MATLAB\R2020a\extern\include
+  -- BUILDING FOR 64 bit Windows
+  -- Using MATLAB MX LIB: C:/Program Files/MATLAB/R2020a/extern/lib/win64/microsoft/libmx.lib
+  -- Using MATLAB MEX LIB: C:/Program Files/MATLAB/R2020a/extern/lib/win64/microsoft/libmex.lib
+  -- Using MATLAB INC DIR: C:\Program Files\MATLAB\R2020a\extern\include
+  -- set Win 64 suffix
+  Generate precomputation MEX file
+  -- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build
+  gpuNUFFT_utils.cpp
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\gpuNUFFT_utils.hpp(285,27): warning C4244: =: double se převádí na DType; může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\gpuNUFFT_utils.hpp(287,42): warning C4244: =: double se převádí na DType; může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_utils.cpp(5,12): warning C4244: inicializování: double se převádí na DType; může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_utils.cpp(22,32): warning C4244: =: double se převádí na DType; může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_utils.cpp(96,1): warning C4244: argument: double se převádí na DType; může dojít ke ztrátě dat.
+  gpuNUFFT_operator_factory.cpp
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(143,3): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 2 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator_factory.cpp(112,67): warning C4267: argument: Převod z: size_t na: IndType, může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator_factory.cpp(426,59): warning C4244: =: double se převádí na float; může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator_factory.cpp(427,59): warning C4244: =: double se převádí na float; může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator_factory.cpp(428,30): warning C4244: =: double se převádí na T; může dojít ke ztrátě dat.
+          with
+          [
+              T=DType
+          ]
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator_factory.cpp(623,17): warning C4244: inicializování: float se převádí na size_t; může dojít ke ztrátě dat.
+  gpuNUFFT_operator.cpp
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(143,3): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 2 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator.cpp(44,54): warning C4244: argument: IndType se převádí na DType; může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator.cpp(155,12): warning C4477: printf: Formátovací řetězec %ld vyžaduje argument typu long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator.cpp(155,12): message : Zvažte použití %zd ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator.cpp(336,31): warning C4244: inicializování: double se převádí na float; může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator.cpp(471,10): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator.cpp(575,8): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator.cpp(730,10): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator.cpp(829,8): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator.cpp(1027,8): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\gpuNUFFT_operator.cpp(1227,8): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+  texture_gpuNUFFT_operator.cpp
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(143,3): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 2 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\texture_gpuNUFFT_operator.cpp(7,61): warning C4244: argument: IndType se převádí na DType; může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\texture_gpuNUFFT_operator.cpp(8,60): warning C4244: argument: IndType se převádí na DType; může dojít ke ztrátě dat.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\texture_gpuNUFFT_operator.cpp(56,12): warning C4477: printf: Formátovací řetězec %ld vyžaduje argument typu long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\texture_gpuNUFFT_operator.cpp(56,12): message : Zvažte použití %zd ve formátovacím řetězci.
+  balanced_gpuNUFFT_operator.cpp
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(143,3): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 2 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\balanced_gpuNUFFT_operator.cpp(12,12): warning C4477: printf: Formátovací řetězec %ld vyžaduje argument typu long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\balanced_gpuNUFFT_operator.cpp(12,12): message : Zvažte použití %zd ve formátovacím řetězci.
+  balanced_texture_gpuNUFFT_operator.cpp
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(143,3): warning C4996: 'cudaThreadSynchronize': bylo deklarované jako zastaralé
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): warning C4477: fprintf: Formátovací řetězec %lu vyžaduje argument typu unsigned long, ale variadický argument 2 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\inc\cuda_utils.hpp(184,21): message : Zvažte použití %zu ve formátovacím řetězci.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\balanced_texture_gpuNUFFT_operator.cpp(13,12): warning C4477: printf: Formátovací řetězec %ld vyžaduje argument typu long, ale variadický argument 1 má typ size_t.
+D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\src\balanced_texture_gpuNUFFT_operator.cpp(13,12): message : Zvažte použití %zd ve formátovacím řetězci.
+  Generování kódu...
+  gpuNUFFT_f.vcxproj -> D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\bin\gpuNUFFT_f.lib

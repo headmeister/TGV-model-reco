@@ -1,0 +1,42 @@
+^D:\GPUNUFFT-04D692C1C2E046E9911497A1ADA4CC5605FE3230\CUDA\SRC\GPU\COARSE\COARSE_GPUNUFFT.CU
+setlocal
+cd D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\build\src\gpu\coarse\CMakeFiles\gpuNUFFT_f.dir
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir//Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.26.28801/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir//Debug/gpuNUFFT_f_generated_coarse_gpuNUFFT.cu.obj -D generated_cubin_file:STRING=D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir//Debug/gpuNUFFT_f_generated_coarse_gpuNUFFT.cu.obj.cubin.txt -P D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir//gpuNUFFT_f_generated_coarse_gpuNUFFT.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GPUNUFFT-04D692C1C2E046E9911497A1ADA4CC5605FE3230\CUDA\SRC\GPU\PRECOMP_KERNELS.CU
+setlocal
+cd D:\gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230\CUDA\build\src\gpu\coarse\CMakeFiles\gpuNUFFT_f.dir\__
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir/__/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.26.28801/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir/__/Debug/gpuNUFFT_f_generated_precomp_kernels.cu.obj -D generated_cubin_file:STRING=D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir/__/Debug/gpuNUFFT_f_generated_precomp_kernels.cu.obj.cubin.txt -P D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/gpuNUFFT_f.dir/__/gpuNUFFT_f_generated_precomp_kernels.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GPUNUFFT-04D692C1C2E046E9911497A1ADA4CC5605FE3230\CUDA\SRC\GPU\COARSE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA -BD:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build --check-stamp-file D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/src/gpu/coarse/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

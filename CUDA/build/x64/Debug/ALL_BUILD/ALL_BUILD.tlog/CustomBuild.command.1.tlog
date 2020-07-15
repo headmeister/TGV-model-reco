@@ -1,0 +1,10 @@
+^D:\GPUNUFFT-04D692C1C2E046E9911497A1ADA4CC5605FE3230\CUDA\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA -BD:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build --check-stamp-file D:/gpuNUFFT-04d692c1c2e046e9911497a1ada4cc5605fe3230/CUDA/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
